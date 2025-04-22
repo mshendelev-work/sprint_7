@@ -1,0 +1,1 @@
+{"uuid": "031e6cae-19c7-456e-8baa-b6d71812cb0a", "children": ["7a851b88-8787-44f9-8ef2-db507b8a2f31"], "befores": [{"name": "cancel_order", "status": "passed", "steps": [{"name": "Отмена заказа", "status": "passed", "start": 1745013337619, "stop": 1745013337619}], "start": 1745013337619, "stop": 1745013337619}], "start": 1745013337619, "stop": 1745013338210}
